@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bferreira-85
-- 👀 I’m interested in learning Powershell, Microsoft Azure, Microsoft 365, Linux Server, and lots and lots of other stuff.
-- 🌱 I’m currently learning Powershell and studying for Microsoft AZ-800
+- 👀 My main interests are Windows Server, Powershell, Linux Red Hat (which I'm studying for RHCSA at the moment),Zabbix, Grafana and Virtualization.
 
 
 <!---
